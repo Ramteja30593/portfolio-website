@@ -6,7 +6,7 @@ A personal portfolio website showcasing my projects, skills, and experience in *
 
 ## 🚀 Live Demo
 
-🔗 (Add your deployed link here after GitHub Pages)
+🔗 https://portfolio-website-alpha-cyan-39.vercel.app/
 
 ---
 
@@ -37,12 +37,6 @@ portfolio-website/
 │── script.js
 │── assets/
 ```
-
----
-
-## 📸 Screenshots
-
-(Add screenshots here if needed)
 
 ---
 
